@@ -1,5 +1,5 @@
 # GRU_Modelado3d
-Modelado 3d del personaje GRU (Minions) junto a su casa.
+Modelado 3D del personaje GRU (Minions) junto a su casa.
 
 <img src="https://github.com/TevenV27/GRU_Modelado3d/blob/main/Imagenes/Frontal.png" alt="Frontal">
 <img src="https://github.com/TevenV27/GRU_Modelado3d/blob/main/Imagenes/Lateral.png" alt="Lateral">
